@@ -1,5 +1,8 @@
 
 //Here i haven't done any json array . But if later i give a text of the user expected friend unique roll number then it will fetch from the database and will return an array that if he is friend or not
+//here by default I assumed that user unique roll is 1503001
+
+
 <html>
 
 <body>
